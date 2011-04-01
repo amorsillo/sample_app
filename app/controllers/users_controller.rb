@@ -1,7 +1,7 @@
 class UsersController < ApplicationController
 
   def new
-    @title = "New users"
+    @title = "Sign up"
   end
 
   def show
